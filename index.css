@@ -1,0 +1,14 @@
+/* Providing background-color to a web page */
+body {
+    background-color: #fdfdbb;
+}
+
+/* Providing font color to class='header' */
+a {
+    color: #ff0000 ;      
+}
+
+/* Aligning 'h1' element to center */
+h1 {
+    text-align: center;
+}

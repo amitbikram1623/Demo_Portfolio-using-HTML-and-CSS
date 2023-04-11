@@ -1,0 +1,24 @@
+/* Providing background-color to a web page */
+body {
+    background-color: #fdfdbb;
+}
+
+/* Providing font color to class='header' */
+.header {
+    color: #ff0000 ;      
+}
+
+/* Very Very Important
+Specifications for border of table, header cells and all other cells*/
+table, th, td {
+    border: 2px solid #000000;
+    border-collapse: collapse;
+}
+th {
+    color: #000000;
+    background-color: #259e3f;
+}
+td {
+    color: #ffffff;
+    background-color: #000000;
+}
